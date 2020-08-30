@@ -1,1 +1,5 @@
 /snowball-0.6.0.tar.gz
+/snowball-0.6.0
+
+*.rpm
+*.log
